@@ -1,5 +1,6 @@
 # Some Important Problems
-[TOC]
+[Recusion](#recursion)
+[DFS](#dfs)
 
 ## Recursion
 | Number                                                       | Note                |
