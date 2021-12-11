@@ -1,6 +1,6 @@
 # Some Important Problems
-[Recusion](#recursion)
-[DFS](#dfs)
+* [Recusion](#recursion)
+* [DFS](#dfs)
 
 ## Recursion
 | Number                                                       | Note                |
