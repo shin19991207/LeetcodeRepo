@@ -2,6 +2,7 @@
 * [Recusion](#recursion)
 * [DFS](#dfs)
 * [Tree](#tree)
+* [String](#string)
 
 ## Recursion
 | Number                                                       | Note                |
@@ -26,3 +27,8 @@
 | Number                                                       | Note |
 | ------------------------------------------------------------ | ---- |
 | [98](https://github.com/shin19991207/LeetcodeRepo/blob/main/Medium/98_ValidateBinarySearchTree.py) | BST |
+
+## String
+| Number                                                       | Note |
+| ------------------------------------------------------------ | ---- |
+| [5](https://github.com/shin19991207/LeetcodeRepo/blob/main/Medium/5_LongestPalindromicSubstring.py) | Palindrome |
