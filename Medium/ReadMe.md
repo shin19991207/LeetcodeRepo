@@ -1,6 +1,7 @@
 # Some Important Problems
 * [Recusion](#recursion)
 * [DFS](#dfs)
+* [Tree](#tree)
 
 ## Recursion
 | Number                                                       | Note                |
@@ -20,3 +21,8 @@
 | [200](https://github.com/shin19991207/LeetcodeRepo/blob/main/Medium/200_NumberofIslands.py) |      |
 |                                                              |      |
 
+
+## Tree
+| Number                                                       | Note |
+| ------------------------------------------------------------ | ---- |
+| [98](https://github.com/shin19991207/LeetcodeRepo/blob/main/Medium/98_ValidateBinarySearchTree.py) | BST |
