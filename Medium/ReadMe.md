@@ -3,6 +3,7 @@
 * [DFS](#dfs)
 * [Tree](#tree)
 * [String](#string)
+* [Array](#array)
 
 ## Recursion
 | Number                                                       | Note                |
@@ -33,3 +34,8 @@
 | Number                                                       | Note |
 | ------------------------------------------------------------ | ---- |
 | [5](https://github.com/shin19991207/LeetcodeRepo/blob/main/Medium/5_LongestPalindromicSubstring.py) | Palindrome |
+
+## Array
+| Number                                                       | Note |
+| ------------------------------------------------------------ | ---- |
+| [15](https://github.com/shin19991207/LeetcodeRepo/blob/main/Medium/15_3Sum.py) | Sum |
