@@ -39,4 +39,4 @@
 | Number                                                       | Note |
 | ------------------------------------------------------------ | ---- |
 | [15](https://github.com/shin19991207/LeetcodeRepo/blob/main/Medium/15_3Sum.py) | Sum |
-| [33](https://github.com/shin19991207/LeetcodeRepo/blob/main/Medium/33_SearchinRotatedSortedArray.py) | Rotated Sorted |
+| [33](https://github.com/shin19991207/LeetcodeRepo/blob/main/Medium/33_SearchinRotatedSortedArray.py) | Rotated sorted, Binary search |
