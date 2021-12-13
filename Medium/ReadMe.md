@@ -40,3 +40,4 @@
 | ------------------------------------------------------------ | ---- |
 | [15](https://github.com/shin19991207/LeetcodeRepo/blob/main/Medium/15_3Sum.py) | Sum |
 | [33](https://github.com/shin19991207/LeetcodeRepo/blob/main/Medium/33_SearchinRotatedSortedArray.py) | Rotated sorted, Binary search |
+| [81](https://github.com/shin19991207/LeetcodeRepo/blob/main/Medium/81_SearchinRotatedSortedArrayII.py) | Rotated sorted **with duplicates**, Binary search + linear search |
